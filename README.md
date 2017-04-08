@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/tachyons.png?downloads=true)](https://www.npmjs.com/package/tachyons)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-tachyons/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-tachyons%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-tachyons/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-tachyons/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-tachyons%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-tachyons/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-tachyons/build/screenCapture.npmPackageListing.svg)
 
