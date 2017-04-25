@@ -1,9 +1,14 @@
-# api documentation for  [tachyons (v4.7.0)](https://github.com/tachyons-css/tachyons#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-tachyons.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-tachyons) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-tachyons.svg)](https://travis-ci.org/npmdoc/node-npmdoc-tachyons)
+# npmdoc-tachyons
+
+#### basic api documentation for  [tachyons (v4.7.1)](https://github.com/tachyons-css/tachyons#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-tachyons.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-tachyons) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-tachyons.svg)](https://travis-ci.org/npmdoc/node-npmdoc-tachyons)
+
 #### Functional CSS for humans
 
-[![NPM](https://nodei.co/npm/tachyons.png?downloads=true)](https://www.npmjs.com/package/tachyons)
+[![NPM](https://nodei.co/npm/tachyons.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/tachyons)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-tachyons/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-tachyons%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-tachyons/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-tachyons/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-tachyons/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-tachyons/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-tachyons/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-tachyons/build/screenCapture.npmPackageListing.svg)
 
@@ -24,8 +29,7 @@
     },
     "contributors": [
         {
-            "name": "adam morse",
-            "email": "hi@mrmrs.cc"
+            "name": "adam morse"
         },
         {
             "name": "john otander",
@@ -44,14 +48,14 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "228eed0badca01cf793ef7cc6103a60c8f8b0f3e",
-        "tarball": "https://registry.npmjs.org/tachyons/-/tachyons-4.7.0.tgz"
+        "shasum": "2ca7295f3eb081470e54d23ef94fffe4322153b4",
+        "tarball": "https://registry.npmjs.org/tachyons/-/tachyons-4.7.1.tgz"
     },
     "files": [
         "css",
         "src"
     ],
-    "gitHead": "2071e67133f802a7cbd636c59ffd550cfe8e6c8e",
+    "gitHead": "841e24eb57469f14392a1fe525dbf48a947bda39",
     "homepage": "https://github.com/tachyons-css/tachyons#readme",
     "keywords": [
         "css",
@@ -66,21 +70,17 @@
     "main": "css/tachyons.css",
     "maintainers": [
         {
-            "name": "donnieberg",
-            "email": "deeoverflow@gmail.com"
+            "name": "donnieberg"
         },
         {
-            "name": "johno",
-            "email": "johnotander@gmail.com"
+            "name": "johno"
         },
         {
-            "name": "mrmrs",
-            "email": "hi@mrmrs.cc"
+            "name": "mrmrs"
         }
     ],
     "name": "tachyons",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/tachyons-css/tachyons.git"
@@ -89,24 +89,15 @@
         "build": "npm run build:css && npm run build:minify",
         "build:css": "tachyons src/tachyons.css > css/tachyons.css",
         "build:minify": "tachyons src/tachyons.css -m > css/tachyons.min.css",
-        "build:watch": "watch 'npm run build' ./src/",
+        "build:watch": "watch \"npm run build\" ./src/",
         "mutations": "immutable-css src/tachyons.css --strict",
         "start": "npm run build:watch"
     },
     "style": "css/tachyons.min.css",
-    "version": "4.7.0"
+    "version": "4.7.1",
+    "bin": {}
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module tachyons](#apidoc.module.tachyons)
-
-
-
-# <a name="apidoc.module.tachyons"></a>[module tachyons](#apidoc.module.tachyons)
 
 
 
